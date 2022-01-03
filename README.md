@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">A passionate Symfony Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvincrepin&label=Profile%20views&color=0e75b6&style=flat" alt="marvincrepin" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvincrepin" alt="marvincrepin" /></a> </p>
 
 - 🔭 I’m currently working on [Marché Conclu](https://github.com/WildCodeSchool/reims-202109-php-project3-marche-conclu)
