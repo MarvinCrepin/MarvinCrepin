@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarvinCrepin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working at [Département de la Marne]
+- 🔭 I’m currently working at Département de la Marne
 
 - 👨‍💻 All of my projects are available at [marvincrepin.com (wip)](marvincrepin.com (wip))
 
